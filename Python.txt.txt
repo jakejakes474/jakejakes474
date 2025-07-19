@@ -1,0 +1,4 @@
+Python is widely regarded as one of the best first programming languages for beginners, and here’s why:
+Simple & Readable Syntax
+Python's syntax is clean and resembles natural English, making it easier to understand.
+No complex symbols (like semicolons ; or curly braces {}) required.
